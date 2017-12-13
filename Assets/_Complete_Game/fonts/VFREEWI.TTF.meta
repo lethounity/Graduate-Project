@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dab000314dc38584aad81c1e9479115f
+timeCreated: 1510640644
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VNI-Freewrite
+  fontNames:
+  - VNI-Freewrite
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9144967d1a161d64997bdebec68c747e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
